@@ -1,200 +1,66 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://github.com/halabitimoty)
+
 <h1 align="center">Hi 👋, I'm Alabi Timothy</h1>
-<h3 align="center">A Fullstack and a Software Engineer in view</h3>
-<img
-  align="center"
-  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-  alt=""
-  width="400"
-/>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=halabitimoty&label=Profile%20views&color=0e75b6&style=flat"
-    alt="halabitimoty"
-  />
+<h3 align="center">Fullstack Developer | IoT Engineer | C# Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=halabitimoty&label=Profile%20views&color=0e75b6&style=flat" alt="halabitimoty" />
 </p>
 
+---
+
+### 🚀 About Me
+
+I'm a passionate Fullstack Developer and IoT Engineer with 5+ years of experience building scalable software, hardware-integrated solutions, and modern web platforms. Currently expanding my expertise in **C#** and **.NET** while staying hands-on with **IoT**, **embedded systems**, and **backend engineering**.
+
+- 🧠 Currently learning: **C#, .NET Core, Advanced IoT Systems**
+- 💼 Proficient in: **NestJS, React, MySQL, MongoDB, Linux, C, C++**
+- 📡 Building real-world solutions integrating **software + hardware**
+- 🌐 Open to collaborations on **IoT**, **microservices**, or **DevOps**
+
+---
+
+### 📫 Connect With Me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/halabitimoty?label=Twitter&style=social)](https://twitter.com/halabitimoty)  
+📧 **halabitimoty@yahoo.com**
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://twitter.com/halabitimoty" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/halabitimoty?logo=twitter&style=for-the-badge"
-      alt="halabitimoty"
-  /></a>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
 </p>
 
-- 🔭 I’m currently working on **ALX SOFTWARE ENGINEERING PROGRAM** 
+---
 
-- 🌱 I’m currently learning and developing my skills on **C, C++, JS,PYTHON,PHP, LINUX** 
+### 📊 GitHub Stats
 
-- 💬 Ask me about **C, C++, JS,PYTHON,PHP, LINUX,
-REACTJS,HTML, CSS, BOOSTRAP, JQUERY, MONGODB** 
-
-- 📫 How to reach me **halabitimoty@yahoo.com** 
-
-- ⚡ Fun fact **Games provide a 23 percent gain over
-traditional learning. 2013 research shows that games can increase learning
-outcomes by two grade levels.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/halabitimoty" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="halabitimoty"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halabitimoty&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=halabitimoty&show_icons=true&locale=en&layout=compact"
-    alt="halabitimoty"
-  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halabitimoty&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=halabitimoty&show_icons=true&locale=en"
-    alt="halabitimoty"
-  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halabitimoty&" alt="streak" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=halabitimoty&"
-    alt="halabitimoty"
-  />
-</p>
+---
+
+> ⚡ *Building solutions that connect the digital and physical worlds—one line of code at a time.*
